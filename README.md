@@ -18,7 +18,7 @@
 5. 本组制作的字幕，如无特殊声明均基于 [ AGPLv3协议](https://www.gnu.org/licenses/agpl-3.0.html) 许可使用，详见 [权属声明](https://www.haruhana.org/licenses)
    > 您可以：自由转载、进行修改<br>
    > 您应当：注明来源、附带原始字幕、禁止用于商业目的<br>
-   > 如发现错误，可通过 [表单](https://wj.qq.com/s2/15281807/6a90/) 、 [Issues](https://github.com/HaruhanaSub/Haruhana-Fansub_Source/issues) 、[qq群组](https://qm.qq.com/q/LFOmKxHXsm) 或 haruhanasub@gmail.com 进行反馈<br>
+   > 如发现错误，可通过 [表单](https://wj.qq.com/s2/15281807/6a90/) 、 [Issues](https://github.com/HaruhanaSub/Haruhana-Storage/issues) 、[qq群组](https://qm.qq.com/q/LFOmKxHXsm) 或 haruhanasub@gmail.com 进行反馈<br>
 
 ## 关于我们
 
